@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63529139169",
+    "project_id": "personal-billbook",
+    "storage_bucket": "personal-billbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63529139169:android:7601b0cc8ec961fb9df0a0",
+        "android_client_info": {
+          "package_name": "com.example.personalbillbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63529139169-sc645hoko5vqkt6mqd27c7oeeklvu6s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUUmH4eqiP5BJ3x16aAUDDB81F64kKWQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63529139169-sc645hoko5vqkt6mqd27c7oeeklvu6s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
